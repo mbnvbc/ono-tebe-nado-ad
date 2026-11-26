@@ -1,1 +1,1 @@
-https://github.com/mbnvbc/ono-tebe-nado
+https://github.com/mbnvbc/ono-tebe-nado-ad
