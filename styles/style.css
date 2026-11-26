@@ -302,3 +302,34 @@
   height: 48px;
   display: block;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  transition: opacity 0.2s ease;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+.bet-button:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.card-link .card:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+.aligned-text_center {
+  margin-left: 55px;
+  margin-right: 55px;
+}
+
+.aligned-text_right {
+  margin-left: auto;
+  margin-right: 20px;
+}
